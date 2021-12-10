@@ -41,3 +41,33 @@ body {
         
     }
 
+    .titulo1 {
+        text-align: center;
+        font-size: 4ch;
+        color: black;
+        background-color: rgb(105, 218, 208);
+    }
+
+
+.cDIV0 {
+    color: white;
+    font-size: 4ch;    
+    background-color: tomato;
+    height: 300px;
+    position: relative;
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+    
+}
+
+
+.button1 {
+    background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;"
+}
+
+
+.season {
+    display: grid;
+    align-content: center;
+    justify-content: space-around;
+}
